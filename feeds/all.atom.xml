@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Grade</title><link href="https:ssite01.com/" rel="alternate"></link><link href="https:///ssite01.com/feeds/all.atom.xml" rel="self"></link><id>https:ssite01.com/</id><updated>2024-10-18T12:00:00-03:00</updated><subtitle>Sua apresentação profissional</subtitle><entry><title>Contato</title><link href="https:///ssite01.com/contato.html" rel="alternate"></link><published>2024-10-18T12:00:00-03:00</published><updated>2024-10-18T12:00:00-03:00</updated><author><name>João</name></author><id>tag:None,2024-10-18:/ssite01.com/contato.html</id><content type="html">&lt;h2&gt;Entre em Contato&lt;/h2&gt;
+&lt;p&gt;Preencha o formulário abaixo para entrar em contato comigo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nome:&lt;/strong&gt; [&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;___]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; [&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;___]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mensagem:&lt;/strong&gt; [&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;] &lt;/li&gt;
+&lt;/ul&gt;</content><category term="Contato"></category></entry><entry><title>Portfólio</title><link href="https:///ssite01.com/portfolio.html" rel="alternate"></link><published>2024-10-18T12:00:00-03:00</published><updated>2024-10-18T12:00:00-03:00</updated><author><name>João</name></author><id>tag:None,2024-10-18:/ssite01.com/portfolio.html</id><content type="html">&lt;h2&gt;Projetos Recentes&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Miniatura do Projeto 1" src="link-para-miniatura1.jpg"&gt;
+&lt;a href="link-para-o-projeto1"&gt;Projeto 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Miniatura do Projeto 2" src="link-para-miniatura2.jpg"&gt;
+&lt;a href="link-para-o-projeto2"&gt;Projeto 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Miniatura do Projeto 3" src="link-para-miniatura3.jpg"&gt;
+&lt;a href="link-para-o-projeto3"&gt;Projeto 3&lt;/a&gt;&lt;/p&gt;</content><category term="Portfólio"></category></entry><entry><title>Serviços</title><link href="https:///ssite01.com/servicos.html" rel="alternate"></link><published>2024-10-18T12:00:00-03:00</published><updated>2024-10-18T12:00:00-03:00</updated><author><name>João</name></author><id>tag:None,2024-10-18:/ssite01.com/servicos.html</id><content type="html">&lt;h2&gt;Meus Serviços&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Serviço 1:&lt;/strong&gt; Descrição breve do serviço.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serviço 2:&lt;/strong&gt; Descrição breve do serviço.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serviço 3:&lt;/strong&gt; Descrição breve do serviço.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Serviços"></category></entry><entry><title>Sobre Mim</title><link href="https:///ssite01.com/sobre-mim.html" rel="alternate"></link><published>2024-10-18T12:00:00-03:00</published><updated>2024-10-18T12:00:00-03:00</updated><author><name>João</name></author><id>tag:None,2024-10-18:/ssite01.com/sobre-mim.html</id><content type="html">&lt;p&gt;&lt;img alt="Minha Foto" src="link-para-sua-foto.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Olá! Meu nome é [Seu Nome Completo] e sou um técnico de informática e analista de sistemas. Com [X anos] de experiência em [sua área de atuação], estou aqui para ajudar você a alcançar seus objetivos tecnológicos.&lt;/p&gt;</content><category term="Apresentação"></category></entry></feed>

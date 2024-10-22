@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Grade - Portfólio</title><link href="https:ssite01.com/" rel="alternate"></link><link href="https:///ssite01.com/feeds/portfolio.atom.xml" rel="self"></link><id>https:ssite01.com/</id><updated>2024-10-18T12:00:00-03:00</updated><subtitle>Sua apresentação profissional</subtitle><entry><title>Portfólio</title><link href="https:///ssite01.com/portfolio.html" rel="alternate"></link><published>2024-10-18T12:00:00-03:00</published><updated>2024-10-18T12:00:00-03:00</updated><author><name>João</name></author><id>tag:None,2024-10-18:/ssite01.com/portfolio.html</id><content type="html">&lt;h2&gt;Projetos Recentes&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Miniatura do Projeto 1" src="link-para-miniatura1.jpg"&gt;
+&lt;a href="link-para-o-projeto1"&gt;Projeto 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Miniatura do Projeto 2" src="link-para-miniatura2.jpg"&gt;
+&lt;a href="link-para-o-projeto2"&gt;Projeto 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Miniatura do Projeto 3" src="link-para-miniatura3.jpg"&gt;
+&lt;a href="link-para-o-projeto3"&gt;Projeto 3&lt;/a&gt;&lt;/p&gt;</content><category term="Portfólio"></category></entry></feed>

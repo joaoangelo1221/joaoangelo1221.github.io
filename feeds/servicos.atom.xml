@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Grade - Serviços</title><link href="https:ssite01.com/" rel="alternate"></link><link href="https:///ssite01.com/feeds/servicos.atom.xml" rel="self"></link><id>https:ssite01.com/</id><updated>2024-10-18T12:00:00-03:00</updated><subtitle>Sua apresentação profissional</subtitle><entry><title>Serviços</title><link href="https:///ssite01.com/servicos.html" rel="alternate"></link><published>2024-10-18T12:00:00-03:00</published><updated>2024-10-18T12:00:00-03:00</updated><author><name>João</name></author><id>tag:None,2024-10-18:/ssite01.com/servicos.html</id><content type="html">&lt;h2&gt;Meus Serviços&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Serviço 1:&lt;/strong&gt; Descrição breve do serviço.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serviço 2:&lt;/strong&gt; Descrição breve do serviço.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serviço 3:&lt;/strong&gt; Descrição breve do serviço.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="Serviços"></category></entry></feed>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Grade - Contato</title><link href="https:ssite01.com/" rel="alternate"></link><link href="https:///ssite01.com/feeds/contato.atom.xml" rel="self"></link><id>https:ssite01.com/</id><updated>2024-10-18T12:00:00-03:00</updated><subtitle>Sua apresentação profissional</subtitle><entry><title>Contato</title><link href="https:///ssite01.com/contato.html" rel="alternate"></link><published>2024-10-18T12:00:00-03:00</published><updated>2024-10-18T12:00:00-03:00</updated><author><name>João</name></author><id>tag:None,2024-10-18:/ssite01.com/contato.html</id><content type="html">&lt;h2&gt;Entre em Contato&lt;/h2&gt;
+&lt;p&gt;Preencha o formulário abaixo para entrar em contato comigo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nome:&lt;/strong&gt; [&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;___]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; [&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;___]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mensagem:&lt;/strong&gt; [&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;] &lt;/li&gt;
+&lt;/ul&gt;</content><category term="Contato"></category></entry></feed>
